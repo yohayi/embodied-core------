@@ -181,4 +181,21 @@ text
 2. **确认 `config.py` 和 `.env.example` 已上传**，如果没有，可以稍后补充。
 3. **提交所有文件**，刷新仓库页面，应该能看到 README 渲染的树状图和说明。
 
-这样，用户只需下载代码、安装依赖、配置环境，就能直接运行。你完全不需要本地 Git 操作，所有文件都是通过 GitHub 网页手动上传的。
+这样，用户只需下载代码、安装依赖、配置环境，就能直接运行。完全不需要本地 Git 操作，所有文件都是通过 GitHub 网页手动上传的。
+
+另外，我们呢，在这里宣传一下其余的路
+https://yohayi.github.io/my-personal-edu-website/全球教育创新案例库
+https://yohayi.github.io/2026--/知行教育研究课题组
+https://yohayi.github.io/geometry-string-map/理论的宣传【已经废弃】
+https://yohayi.github.io/jinghongzhai--/惊鸿斋
+https://yohayi.github.io/-history/历史记录分析系统
+https://yohayi.github.io/jinghongzai--2025-2029/美，是不被驯服的
+https://yohayi.github.io/yohayi-/Yohayi
+https://yohayi.github.io/my-tech-website-/实时流式AI环境监控系统
+https://yohayi.github.io/2025-2029global-/全球教育改革分析
+https://yohayi.github.io/BDCG---/BDCG模拟器
+https://yohayi.github.io/yohayi-2026-3-/几何弦统一理论理论的宣传
+https://yohayi.github.io/st-website/我的写作空间
+https://yohayi.github.io/-AI-/实时流式AI环境监控系统
+
+---
